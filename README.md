@@ -22,7 +22,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 ## Github Link 
-https://uwamahororachel.github.io/github_search/
+https://uwamahororachel.github.io/git_search/
 
 ## Username and Email
  Username: uwamahororachel
